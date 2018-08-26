@@ -32,7 +32,7 @@
                 </h2>
             </div>
             <div class="row">
-                <h2>Please Enable * Server ResourcePack * .</h2>
+                <h2>Please Enable **Server ResourcePack** .</h2>
             </div>
         </div>
     </div>
