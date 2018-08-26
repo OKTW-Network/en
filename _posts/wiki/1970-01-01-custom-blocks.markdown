@@ -1,55 +1,55 @@
 ---
 order : 20
-title:  "功能方塊"
+title:  "Functional block"
 date:  1970-01-01 00:00:00 +0000
 categories: wiki
 layout: wiki
 ---
 
-注意! 所有的功能方塊都必須由[扳手]({{ "/wiki/tools.html#扳手" | relative_url }})拆除。
-- [高科技合成台](#高科技合成台)
-- [電梯](#電梯)
+Warning! All Functional Block need use [Wrench]({{ "/wiki/tools.html#Wrench" | relative_url }}) to break。
+- [Hi-Tech-Crafting-Table](#Hi-Tech-Crafting-Table)
+- [Elevator](#Elevator)
 
 ---
 
-# 高科技合成台
+# Hi-Tech-Crafting-Table
 
 ![]({{ "/assets/img/wiki/ht-ct/overview.png" | relative_url }})
 
-### 合成
+### Crafting
 
-使用合成台來合成(有序)
+Use crafting table to craft(Shape)
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.png" | relative_url }}">
 
-### 用途
+### Use
 
-在未來許多物品都需要用它來合成。
+In feature , many item or block need it to crafting.
 
-### 功能
+### Features
 
-目前還沒有功能。
+WIP.
 
 ---
 
-# 電梯
+# Elevator
 
 ![]({{ "{{ "/assets/img/wiki/elevator/overview.png" | relative_url }}" | relative_url }})
 
-### 合成
+### Crafting
 
-使用合成台來合成(無序)
+Use crafting table to craft(Shapeless)
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/elevator/recipe.png" | relative_url }}">
 
-### 用途
+### Use
 
-使玩家在電梯之間快速移動。
+Move faster between two elevator
 
-### 功能
+### Features
 
-電梯(至少兩個)垂直放置時，蹲下可以向下傳送，跳躍可以向上傳送。
+When elevator(at least 2) place in vertical , sneak can move down , jump can move up.
 
-### 其他
+### Other
 
-電梯的最遠距離是 16 格方塊(不包括電梯自己上下 16 格)。
+Elevator will not work when elveator to elveator distance more than 16.

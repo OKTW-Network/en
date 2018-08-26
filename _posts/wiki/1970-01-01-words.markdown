@@ -1,6 +1,6 @@
 ---
 order : 2
-title:  "用語集"
+title:  "Words"
 date:  1970-01-01 00:00:00 +0000
 categories: wiki
 layout: wiki
@@ -11,85 +11,81 @@ layout: wiki
 # 旅行者
 #### Traveler
 
-在星際中旅行的人，也就是玩家
+Travel in the Galaxy , alias player.
 
 # 星船
 #### Star Ship
 
-伺服器入口  
-有一個控制面板讓玩家可以創造或選擇星系
+Server Entry Point  
+Has a control panel to manage Galaxy.
 
 # 星系
 #### Galaxy
 
-類似團隊的概念，包含多個星球與成員
+Correspond to  team concept , include many planets and members.
 
 # 星球
 #### Planet
 
-對應到Minecraft的世界，每個星球都是獨立的世界
+correspond to Minecraft World , each planet is independent world.
 
 # 環境控制系統
 #### Environment Control System
 
-在星球外圍的衛星，用來改善星球環境讓人可以生存
+A satellite around planet , improve planet environment  
 
-提升等級可擴大範圍及附加效果
+upgrade it to expand range and more effect.
 
 # 星船控制台
 #### Star Ship Controller
 
-星球的入口，一個5x5x5的結構  
-可以與飛船及ECS(環境控制系統)連線
-位於星球重生點的烽火臺 
+The controller on the star ship , use it to manage Galaxy
 
 # 星球終端
 #### Planet Terminal
 
-星球的入口，一個5x5x5的結構  
-可以與飛船及ECS(環境控制系統)連線
-位於星球重生點的烽火臺 
-  
+The entry point to planet , it can connect to ECS(Environment Control System)  
+On the Beacon in Planet spawn
+
 # 星塵
 #### Star dust
 
-就是錢  
-獲得經驗值的同時也會獲得星塵
+Money .  
+When you get experience , you will  get star dust too.
   
 # 擁有者
 #### Owner
 
-星系的創立者  
-同時也是星球的管理員
+The founder/Admin of Galaxy .
 
 # 管理員
 #### Admin
 
-星系的管理者
+The Admin of Galaxy.
 
 # 成員
 #### Member
 
-星系的成員
+The Member of Galaxy.
 
 # 普通星球
 #### Normal Planet
 
-普通世界
+Normal World
 
 # 炎熱星球
 #### Hot Planet
 
-地獄
+Nether
 
 # 黑暗星球
 #### Dark Planet
 
-終界
+The End
 
 ---
 
-# 索引
+# List
 
 - [旅行者](#旅行者)
 - [星船](#星船)
@@ -100,13 +96,13 @@ layout: wiki
 - [星球終端](#星球終端)
 - [星塵](#星塵)
 
-## 權限
+## Permissionm
 
 - [擁有者](#擁有者)
 - [管理者](#管理者)
 - [成員](#成員)
 
-## 星球種類
+## Planet Type
 
 - [普通星球](#普通星球)
 - [炎熱星球](#炎熱星球)

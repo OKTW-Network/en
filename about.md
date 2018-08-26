@@ -15,12 +15,12 @@
     <div class="row">
         <div class="col mt-5 text-center">
             <p>
-                我們的維護人員很懶，目前沒有什麼關於我們，可以往下看贊助我們的贊助商喔！
+                We are lazy , so here comes nothing :D
             </p>
         </div>
     </div>
     <div class="row">
-        <h1>贊助商</h1>
+        <h1>Sponsor</h1>
     </div>
     <div class="row">
         <div class="col-sm">
@@ -39,8 +39,8 @@
             <div class="row"><div class="col text-center"><h3>Licson</h3></div></div>
             <div class="row"><div class="col text-center"><h5>@licson0729</h5></div></div>
             <div class="row"><div class="col text-center">
-                <p>贊助商大大<br>
-                擁有100Gbps家用網路</p>
+                <p>Sponsor<br>
+                Has 100 Gbps home networking</p>
             </div></div>
             <div class="row"><div class="col text-center">
                 <a class="fas fa-globe fa-2x" href="https://licson.net"></a>
@@ -51,12 +51,12 @@
             <div class="row"><div class="col text-center"><h3>Panada</h3></div></div>
             <div class="row"><div class="col text-center"><h5>@cute_panda</h5></div></div>
             <div class="row"><div class="col text-center">
-                <p>贊助了一條2G DDR3記憶體</p>
+                <p>Donated a DDR3 RAM</p>
             </div></div>
         </div>
     </div> 
     <div class="row">
-        <h1>團隊成員</h1>
+        <h1>Developers</h1>
     </div>
     <div class="row">
         <div class="col-sm">
@@ -64,7 +64,7 @@
             <div class="row"><div class="col text-center"><h3>james58899</h3></div></div>
             <div class="row"><div class="col text-center"><h5>@james58899</h5></div></div>
             <div class="row"><div class="col text-center">
-                <p>創始人兼插件開發兼伺服器維護</p>
+                <p>Founder , Plugin Develop , Server Maintenance.</p>
             </div></div>
             <div class="row"><div class="col text-center">
                 <a class="fab fa-github fa-2x" href="https://github.com/james58899"></a>
@@ -75,7 +75,7 @@
             <div class="row"><div class="col text-center"><h3>mmis1000</h3></div></div>
             <div class="row"><div class="col text-center"><h5>@mmis1000</h5></div></div>
             <div class="row"><div class="col text-center">
-                <p>插件開發</p>
+                <p>Plugin Develop</p>
             </div></div>
             <div class="row"><div class="col text-center">
                 <a class="fab fa-github fa-2x" href="https://github.com/mmis1000"></a>
@@ -87,7 +87,7 @@
             <div class="row"><div class="col text-center"><h3>Jim Chen😶</h3></div></div>
             <div class="row"><div class="col text-center"><h5>@jimchen5209</h5></div></div>
             <div class="row"><div class="col text-center">
-                <p>插件開發</p>
+                <p>Plugin Develop</p>
             </div></div>
             <div class="row"><div class="col text-center">
                 <a class="fab fa-github fa-2x" href="https://github.com/jimchen5209"></a>
@@ -100,7 +100,7 @@
             <div class="row"><div class="col text-center"><h3>bill96012</h3></div></div>
             <div class="row"><div class="col text-center"><h5>@bill96012</h5></div></div>
             <div class="row"><div class="col text-center">
-                <p>資源包管理</p>
+                <p>Resource Pack Management</p>
             </div></div>
             <div class="row"><div class="col text-center">
                 <a class="fab fa-github fa-2x" href="https://github.com/bill96012"></a>
@@ -111,7 +111,7 @@
             <div class="row"><div class="col text-center"><h3>隱風</h3></div></div>
             <div class="row"><div class="col text-center"><h5>@infon_TW</h5></div></div>
             <div class="row"><div class="col text-center">
-                <p>材質設計</p>
+                <p>Texture Designer</p>
             </div></div>
             <div class="row"><div class="col text-center">
                 <a class="fab fa-github fa-2x" href="https://github.com/Gabreile"></a>
@@ -122,7 +122,7 @@
             <div class="row"><div class="col text-center"><h3>Sciuridae</h3></div></div>
             <div class="row"><div class="col text-center"><h5>@Sciuridae0603</h5></div></div>
             <div class="row"><div class="col text-center">
-                <p>網頁開發</p>
+                <p>FrontEnd</p>
             </div></div>
             <div class="row"><div class="col text-center">
                 <a class="fab fa-github fa-2x" href="https://github.com/Sciuridae0603"></a>
