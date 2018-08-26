@@ -6,93 +6,104 @@ categories: wiki
 layout: wiki
 ---
 
-- [如何創造星系](#如何建立星系)
-- [如何開啟管理星系介面](#如何開啟管理星系介面)
-- [如何新增星球](#如何創造星球)
-- [如何升級星球](#如何升級星球)
-- [如何添加成員](#如何添加成員)
-- [如何移除成員](#如何移除成員)
-- [如何審核加入申請](#如何修改成員權限)
-- [如何修改成員身分組](#如何修改成員身分組)
-- [如何修改星系名稱](#如何修改星系名稱)
-- [如何修改星系簡介](#如何修改星系簡介)
-- [如何設定星系通知](#如何設定星系通知)
+- [How to create a Galaxy](#如何建立星系)
+- [How to open Galaxy manage GUI](#如何開啟管理星系介面)
+- [How to create Planet](#如何創造星球)
+- [How to upgrade Planet](#如何升級星球)
+- [How to add member](#如何添加成員)
+- [How to kick member](#如何移除成員)
+- [How to review request](#如何審核加入申請)
+- [How to change member permission](#如何修改成員身分組)
+- [How to change Galaxy name](#如何修改星系名稱)
+- [How to change Galaxy info](#如何修改星系簡介)
+- [How to ser Galaxy notice](#如何設定星系通知)
 
 ---
 
 # 如何創造星系
+#### How to create a Galaxy
 
-在[星船]({{ "/wiki/words.html#星船" | relative_url }})中對桌上的[星船控制台]({{ "/wiki/words.html#星船控制台" | relative_url }})點右鍵  
-在跳出的介面中點選 **創造星系**  
-在 **聊天介面** 中輸入 **星系名稱** 並送出  
-點選確定  
+On the [Star Ship]({{ "/wiki/words.html#星船" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#星船控制台" | relative_url }}) on the table  
+Click **創造星系**  
+Type **Galaxy Name** in **Chat**
+Click **確定**  
 
 # 如何開啟管理星系介面
+#### How to open Galaxy manage GUI
 
-在[星船]({{ "/wiki/words.html#星船" | relative_url }})中對桌上的[星船控制台]({{ "/wiki/words.html#星船控制台" | relative_url }})點右鍵  
-在跳出的介面中點選 **列出已加入的[星系]({{ "/wiki/words.html#星系" | relative_url }})**  
-點選你要管理的[星系]({{ "/wiki/words.html#星系" | relative_url }}) **必須是[擁有者]({{ "/wiki/words.html#擁有者" | relative_url }})或是[管理者]({{ "/wiki/words.html#管理者" | relative_url }})** 
+On the [Star Ship]({{ "/wiki/words.html#星船" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#星船控制台" | relative_url }}) on the table  
+Click **列出已加入的[星系]({{ "/wiki/words.html#星系" | relative_url }})**  
+Click [Galaxy]({{ "/wiki/words.html#星系" | relative_url }}) that you want to manage **Must be [Owner]({{ "/wiki/words.html#擁有者" | relative_url }}) or [Admin]({{ "/wiki/words.html#管理者" | relative_url }})** 
 
 # 如何新增星球
+#### How to create Planet
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **新增星球**  
-點選 **新增的星球種類**  
-> 目前只可新增兩顆，第一顆普通地球不需要星塵，第二顆只限定新增地域(需要 1000 星塵)
-在 **聊天介面** 中輸入 **星球名稱** 並送出 ( **只可輸入英文、數字、底線(_)、減號(-)** )  
-點選確定  
-> 如果出現紅字代表名稱已經被使用或包含不允許的字，請將名稱修正後再嘗試一次  
+Open **[Manage GUI](#如何開啟管理星系介面)**  
+Click **新增星球**  
+Click **Planet Type**  
+> you can only can create 2 planets first normal , second hot planet(1000 star dust)
+Type **Planet Name** in **Chat** ( **Only allow Alphabet number - _**)
+Click **確定** 
+> if you see red text , it means you use not allowed string or it has been used.
 
 # 如何升級星球
+#### How to upgrade Planet
 
-尚未開放
+WIP
 
 # 如何移除成員
+#### How to add member
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **管理成員**  
-選擇 **要移除的玩家**  
-點選 **移除成員**  
-點選 **是**  
+Open **[Manage GUI](#如何開啟管理星系介面)**  
+Click **管理成員**  
+Choose **Member** you want to kick  
+Click **移除成員**  
+Click **是**  
 
 # 如何添加成員
+#### How to kick member
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **添加成員**  
-在 **聊天介面** 中輸入玩家名稱  
-點選確定  
+Open **[Manage GUI](#如何開啟管理星系介面)**  
+Click **添加成員**  
+Type **Player Username** in **聊天介面** 
+Click **確定**  
 
 # 如何審核加入申請
+#### How to review request
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **加入申請**  
-點選 **要審核的玩家**
-點選 **是** 或 **否**
+Open **[Manage GUI](#如何開啟管理星系介面)**  
+Click **加入申請**  
+Click **Player** you want to review  
+Click **是** 或 **否**
 
 # 如何修改成員身分組
+#### How to change member permission
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **管理成員**  
-選擇 **要修改的玩家**  
-點選 **更改身分組**  
-點選要給予的身分組 ( *[ADMIN(管理者)](({{ "wiki/words.html#管理者" | relative_url }}))* / *[MEMBER(成員)](({{ "/wiki/words.html#成員" | relative_url }}))* )
+Open **[Manage GUI](#如何開啟管理星系介面)**  
+Click **管理成員**  
+選擇 **Player** you want to change  
+Click **更改身分組**  
+Click要給予的身分組 ( *[ADMIN(管理者)](({{ "wiki/words.html#管理者" | relative_url }}))* / *[MEMBER(成員)](({{ "/wiki/words.html#成員" | relative_url }}))* )
 
 # 如何修改星系名稱
+#### How to change Galaxy name
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **重新命名**  
-在 **聊天介面** 中輸入 **新的星系名稱** 並送出  
+Open **[Manage GUI](#如何開啟管理星系介面)**  
+Click **重新命名**  
+Type **Other Galaxy Name** in **Chat**
 
 # 如何修改星系簡介
+#### How to change Galaxy info
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **更改簡介**  
-在 **聊天介面** 中輸入 **新的簡介** 並送出  
+Open **[Manage GUI](#如何開啟管理星系介面)**  
+Click **更改簡介**  
+Type **Galaxy Info** in **Chat**
 
 # 如何設定星系通知
+#### How to change Galaxy notice
 
-開啟 **[管理星系介面](#如何開啟管理星系介面)**  
-點選 **更改通知**  
-在 **聊天介面** 中輸入 **新的通知** 並送出  
-> 可以使用  `\n` 換行
+Open **[Manage GUI](#如何開啟管理星系介面)**  
+Click **更改通知**  
+Type **Galaxy notice** in **Chat**
+> you can use  `\n` to new line
 
