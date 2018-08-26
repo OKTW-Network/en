@@ -20,7 +20,7 @@ layout: wiki
 
 使用合成台來合成(有序)
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.png | relative_url }}">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.png" | relative_url }}">
 
 ### 用途
 
@@ -34,13 +34,13 @@ layout: wiki
 
 # 電梯
 
-![]({{ "{{ "/assets/img/wiki/elevator/overview.png | relative_url }}" | relative_url }})
+![]({{ "{{ "/assets/img/wiki/elevator/overview.png" | relative_url }}" | relative_url }})
 
 ### 合成
 
 使用合成台來合成(無序)
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/elevator/recipe.png | relative_url }}">
+<img class="recipe-photo" src="{{ "/assets/img/wiki/elevator/recipe.png" | relative_url }}">
 
 ### 用途
 
