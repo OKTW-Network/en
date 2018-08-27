@@ -1,6 +1,6 @@
 <div class="container">
     <div class="row">
-        <h1>關於我們</h1>
+        <h1>About us</h1>
         <hr>
     </div>
     <div class="row">
