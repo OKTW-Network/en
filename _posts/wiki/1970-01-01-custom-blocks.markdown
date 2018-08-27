@@ -24,7 +24,7 @@ Use crafting table to craft(Shape)
 
 ### Use
 
-In feature , many item or block need it to crafting.
+In future , many item or block need it to crafting.
 
 ### Features
 

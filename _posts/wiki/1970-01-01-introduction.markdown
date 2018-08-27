@@ -16,7 +16,7 @@ layout: wiki
 
 # Story
 
-In the feature , travel in Galaxy is very common  
+In the future , travel in Galaxy is very common  
 Player is from the other planet Traveler , and meet other Player one the way , decide to create a new Planet
 
 # Concept
@@ -47,6 +47,6 @@ if you has any problem , you can contact us on the footer.
 # Start
 
 After join server , you will appear in Star Ship.
-First you nned to [Join]({{ "/wiki/tutorial.html#如何加入星系" | relative_url }}) or [Create a Galaxy]({{ "/wiki/tutorial.html#如何創建星系" | relative_url }})  
+First you need to [Join]({{ "/wiki/tutorial.html#如何加入星系" | relative_url }}) or [Create a Galaxy]({{ "/wiki/tutorial.html#如何創建星系" | relative_url }})  
 If you create Galaxy by youself , you need to Create a planet
 
