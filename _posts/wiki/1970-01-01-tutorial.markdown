@@ -15,32 +15,40 @@ layout: wiki
   
 ---
 
-# How_to_join_Galaxy
+<a name="How_to_join_Galaxy">
 
-On the [Star Ship]({{ "/wiki/words.html#星船" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#星船控制台" | relative_url }}) on the table  
+# How to join Galaxy
+
+On the [Star Ship]({{ "/wiki/words.html#StarShip" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#StarShipController" | relative_url }}) on the table  
 Click **瀏覽所有星系**  
-Find [Galaxy]({{ "/wiki/words.html#星系" | relative_url }}) that you want to join  
+Find [Galaxy]({{ "/wiki/words.html#Galaxy" | relative_url }}) that you want to join  
 Click **申請加入**(Send Request join)  
-Wait for [Admin of the Galaxy]({{ "/wiki/words.html#管理者" | relative_url }}) to [Approve your request]({{ "/wiki/galaxy-manage-tutorial.html#如何審核加入申請" | relative_url }})  
-Or you can ask [Admin of the Galaxy]({{ "/wiki/words.html#管理者" | relative_url }}) [add you manually]({{ "/wiki/galaxy-manage-tutorial.html#如何添加成員" | relative_url }})
+Waiting [Galaxy Manager]({{ "/wiki/words.html#Admin" | relative_url }}) [Approve your request]({{ "/wiki/galaxy-manage-tutorial.html#How_to_review_request" | relative_url }})  
+Or you can ask [Galaxy Manager]({{ "/wiki/words.html#Admin" | relative_url }}) [add you manual]({{ "/wiki/galaxy-manage-tutorial.html#How_to_add_member" | relative_url }})
 
-> Mayber [you can create one]({{ "/wiki/galaxy-manage-tutorial.html#如何創造星系" | relative_url }})！
+> Maybe [you can create one]({{ "/wiki/galaxy-manage-tutorial.html#How_to_create_a_galaxy" | relative_url }})！
 
-# How_to_enter_Planet
+<a name="How_to_enter_Planet">
 
-On the [Star Ship]({{ "/wiki/words.html#星船" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#星船控制台" | relative_url }}) on the table  
+# How to enter Planet
+
+On the [Star Ship]({{ "/wiki/words.html#StarShip" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#StarShipController" | relative_url }}) on the table  
 Click **列出已加入星系**(Show joined Galaxy) 或 **列出所有星系**(Show all Galaxy)  
 Click **Galaxy** that you want to enter  
 Click **星球列表**(Planet List)  
 Click **Planet** that you want to enter
 
-# How_to_enter_other_world
+<a name="How_to_enter_other_world">
 
-On the [Planet]({{ "/wiki/words.html#星球" | relative_url }}) Click [Planet Terminal]({{ "/wiki/words.html#星球終端" | relative_url }})  
+# How to enter other world
+
+On the [Planet]({{ "/wiki/words.html#Planet" | relative_url }}) Click [Planet Terminal]({{ "/wiki/words.html#PlanetTerminal" | relative_url }})  
 Click **星球列表**(Planet List)  
 Click **Planet** that you want to enter
 
-# How_to_back_to_Star_Ship
+<a name="How_to_back_to_Star_Ship">
 
-On the [Planet]({{ "/wiki/words.html#星球" | relative_url }}) Click [Planet Terminal]({{ "/wiki/words.html#星球終端" | relative_url }})  
+# How to back to Star Ship
+
+On the [Planet]({{ "/wiki/words.html#Planet" | relative_url }}) Click [Planet Terminal]({{ "/wiki/words.html#PlanetTerminal" | relative_url }})  
 Click **回到飛船**
