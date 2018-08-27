@@ -6,104 +6,133 @@ categories: wiki
 layout: wiki
 ---
 
+# List
+
+- [Traveler](#Traveler)
+- [Star Ship](#StarShip)
+- [Galaxy](#Galaxy)
+- [Planet](#Planet)
+- [Environment Control System](#ECS)
+- [Star Ship Controller](#StarShipController)
+- [Planet Terminal](#PlanetTerminal)
+- [Star Dust](#StarDust)
+
+## Permissionm
+
+- [Owner](#Owner)
+- [Admin](#Admin)
+- [Member](#Member)
+
+## Planet Type
+
+- [Normal Planet](#NormalPlanet)
+- [Hot Planet](#HotPlanet)
+- [Dark Planet](#DarkPlanet)
+
 ---
 
-# 旅行者
-#### Traveler
+<a name="Traveler">
+
+# Traveler
+#### 旅行者
 
 Travel in the Galaxy , alias player.
 
-# 星船
-#### Star Ship
+<a name="StarShip">
+
+# Star Ship
+#### 星船
 
 Server Entry Point  
 Has a control panel to manage Galaxy.
 
-# 星系
-#### Galaxy
+<a name="Galaxy">
+
+# Galaxy
+#### 星系
 
 Correspond to  team concept , include many planets and members.
 
-# 星球
-#### Planet
+<a name="Planet">
+
+# Planet
+#### 星球
 
 correspond to Minecraft World , each planet is independent world.
 
-# 環境控制系統
-#### Environment Control System
+<a name="ECS">
+
+# Environment Control System
+#### 環境控制系統
 
 A satellite around planet , improve planet environment  
 
 upgrade it to expand range and more effect.
 
-# 星船控制台
-#### Star Ship Controller
+<a name="StarShipController">
+
+# Star Ship Controller
+#### 星船控制台
 
 The controller on the star ship , use it to manage Galaxy
 
-# 星球終端
-#### Planet Terminal
+<a name="PlanetTerminal">
+
+# Planet Terminal
+#### 星球終端
 
 The entry point to planet , it can connect to ECS(Environment Control System)  
 On the Beacon in Planet spawn
 
-# 星塵
-#### Star dust
+<a name="StarDust">
+
+# Star dust
+#### 星塵
 
 Money .  
 When you get experience , you will  get star dust too.
   
-# 擁有者
-#### Owner
+<a name="Owner">
+
+# Owner
+#### 擁有者
 
 The founder/Admin of Galaxy .
 
-# 管理員
-#### Admin
+<a name="Admin">
+
+# Admin
+#### 管理員
 
 The Admin of Galaxy.
+
+<a name="Member">
 
 # 成員
 #### Member
 
 The Member of Galaxy.
 
-# 普通星球
-#### Normal Planet
+<a name="NormalPlanet">
+
+# Normal Planet
+#### 普通星球
+
 
 Normal World
 
-# 炎熱星球
-#### Hot Planet
+<a name="HotPlanet">
+
+# Hot Planet
+#### 炎熱星球
 
 Nether
 
-# 黑暗星球
-#### Dark Planet
+<a name="DarkPlanet">
+
+# Dark Planet
+#### 黑暗星球
 
 The End
 
 ---
-
-# List
-
-- [旅行者](#旅行者)
-- [星船](#星船)
-- [星系](#星系)
-- [星球](#星球)
-- [環境控制系統](#環境控制系統)
-- [星船控制台](#星船控制台)
-- [星球終端](#星球終端)
-- [星塵](#星塵)
-
-## Permissionm
-
-- [擁有者](#擁有者)
-- [管理者](#管理者)
-- [成員](#成員)
-
-## Planet Type
-
-- [普通星球](#普通星球)
-- [炎熱星球](#炎熱星球)
-- [黑暗星球](#黑暗星球)
