@@ -34,7 +34,7 @@ WIP.
 
 # Elevator
 
-![]({{ "{{ "/assets/img/wiki/elevator/overview.png" | relative_url }}" | relative_url }})
+![]({{ "{{ "/assets/img/wiki/elevator/overview.png" | relative_url }})
 
 ### Crafting
 
