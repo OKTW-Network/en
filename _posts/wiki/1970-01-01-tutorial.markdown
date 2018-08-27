@@ -21,8 +21,8 @@ On the [Star Ship]({{ "/wiki/words.html#星船" | relative_url }}) Click [Star S
 Click **瀏覽所有星系**  
 Find [Galaxy]({{ "/wiki/words.html#星系" | relative_url }}) that you want to join  
 Click **申請加入**(Send Request join)  
-Waiting [Galaxy Manager]({{ "/wiki/words.html#管理者" | relative_url }}) [Approve your request]({{ "/wiki/galaxy-manage-tutorial.html#如何審核加入申請" | relative_url }})  
-Or you can ask [Galaxy Manager]({{ "/wiki/words.html#管理者" | relative_url }}) [add you manual]({{ "/wiki/galaxy-manage-tutorial.html#如何添加成員" | relative_url }})
+Wait for [Admin of the Galaxy]({{ "/wiki/words.html#管理者" | relative_url }}) to [Approve your request]({{ "/wiki/galaxy-manage-tutorial.html#如何審核加入申請" | relative_url }})  
+Or you can ask [Admin of the Galaxy]({{ "/wiki/words.html#管理者" | relative_url }}) [add you manually]({{ "/wiki/galaxy-manage-tutorial.html#如何添加成員" | relative_url }})
 
 > Mayber [you can create one]({{ "/wiki/galaxy-manage-tutorial.html#如何創造星系" | relative_url }})！
 

@@ -6,15 +6,13 @@
                     <h1>OKTW </h1>
                 </div>
                 <div class="col-sm m-0 p-0">
-                    <h1>Galaxy Project</h1>
+                    <h1>Project Galaxy</h1>
                 </div>
             </div>
             <div class="row">
-            <!--我不會英文:D
-                <h5 class="subtitle">OKTW Netkwork comes</h5>  
-                <h5 class="subtitle">完全原創的原版組隊生存</h5>  
-                <h5 class="subtitle">立即加入一同在星際間遨遊！</h5>  
-            -->
+                <h5 class="subtitle">OKTW Netkwork brings you</h5>  
+                <h5 class="subtitle">The Original Vanilla Team Survival</h5>  
+                <h5 class="subtitle">Join NOW and travel in the Galaxy!</h5>  
             </div>
         </div>
         <div class="col-0">
@@ -32,7 +30,7 @@
                 </h2>
             </div>
             <div class="row">
-                <h2>Please Enable **Server ResourcePack** .</h2>
+                <h2>Please Enable the <b>Server ResourcePack</b>.</h2>
             </div>
         </div>
     </div>

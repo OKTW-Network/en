@@ -26,9 +26,9 @@ layout: wiki
 
 # Contribute
 
-> Must be [Member]({{ "/wiki/words.html#成員" | relative_url }}) of Galaxy
+> Must be [Member]({{ "/wiki/words.html#成員" | relative_url }}) of the Galaxy
 
 Use [Planet Terminal]({{ "/wiki/words.html#星球終端" | relative_url }})  
 Click **星塵**  
-Choose **Quantity of you want to contribute.**  
+Choose **Amount of star dust you want to contribute.**  
 Click **✓**

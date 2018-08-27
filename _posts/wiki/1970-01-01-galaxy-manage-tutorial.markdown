@@ -33,7 +33,7 @@ Click **確定**
 
 On the [Star Ship]({{ "/wiki/words.html#星船" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#星船控制台" | relative_url }}) on the table  
 Click **列出已加入的[星系]({{ "/wiki/words.html#星系" | relative_url }})**  
-Click [Galaxy]({{ "/wiki/words.html#星系" | relative_url }}) that you want to manage **Must be [Owner]({{ "/wiki/words.html#擁有者" | relative_url }}) or [Admin]({{ "/wiki/words.html#管理員" | relative_url }})** 
+Click [Galaxy]({{ "/wiki/words.html#星系" | relative_url }}) that you want to manage. **You must be [Owner]({{ "/wiki/words.html#擁有者" | relative_url }}) or [Admin]({{ "/wiki/words.html#管理員" | relative_url }}) of the Galaxy.** 
 
 # 如何新增星球
 #### How to create Planet
@@ -41,10 +41,10 @@ Click [Galaxy]({{ "/wiki/words.html#星系" | relative_url }}) that you want to 
 Open **[Manage GUI](#如何開啟管理星系介面)**  
 Click **新增星球**  
 Click **Planet Type**  
-> you can only can create 2 planets first normal , second hot planet(1000 star dust)
-Type **Planet Name** in **Chat** ( **Only allow Alphabet number - _**)
+> You can only can create 2 planets for now, second one is hot planet(Costs 1000 star dust).
+Type **Planet Name** in **Chat** ( **Only accepts alphabet and number - _**)
 Click **確定** 
-> if you see red text , it means you use not allowed string or it has been used.
+> If you see red text, it means you use not allowed string or it has been used.
 
 # 如何升級星球
 #### How to upgrade Planet
@@ -81,9 +81,9 @@ Click **是** 或 **否**
 
 Open **[Manage GUI](#如何開啟管理星系介面)**  
 Click **管理成員**  
-選擇 **Player** you want to change  
+Select the **Player** you want to change  
 Click **更改身分組**  
-Click要給予的身分組 ( *[ADMIN(管理員)]({{ "wiki/words.html#管理員" | relative_url }})* / *[MEMBER(成員)]({{ "/wiki/words.html#成員" | relative_url }})* )
+Click the role you want to give ( *[ADMIN(管理員)]({{ "wiki/words.html#管理員" | relative_url }})* / *[MEMBER(成員)]({{ "/wiki/words.html#成員" | relative_url }})* )
 
 # 如何修改星系名稱
 #### How to change Galaxy name
@@ -105,5 +105,5 @@ Type **Galaxy Info** in **Chat**
 Open **[Manage GUI](#如何開啟管理星系介面)**  
 Click **更改通知**  
 Type **Galaxy notice** in **Chat**
-> you can use  `\n` to new line
+> you can use  `\n` to make a new line
 

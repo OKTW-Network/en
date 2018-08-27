@@ -23,30 +23,30 @@ layout: wiki
 # Chest
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_chest.png" | relative_url }}">  
-> All wood type can be craft.
+> All wood type can be crafted.
 
 # Stick
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_stick.png" | relative_url }}">  
 > Shapeless
-> All wood type can be craft.
+> All wood type can be crafted.
 
 # Hopper
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_hopper.png" | relative_url }}">  
-> All wood type can be craft.
+> All wood type can be crafted.
 
 # Ladder
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_ladder.png" | relative_url }}">  
-> All wood type can be craft.
+> All wood type can be crafted.
 
 # Slab
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_slab.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/wooden_slab_to_block.png" | relative_url }}">  
 > Shapeless
-> All wood type can be craft.
+> All wood type can be crafted.
 
 # Carrot_On_A_Stick
 
@@ -62,13 +62,13 @@ layout: wiki
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass.png" | relative_url }}">  
-> All color glass can be craft.
+> All color glass can be crafted.
 
 # Glass_Pane
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass_pane.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass_pane.png" | relative_url }}">  
-> All color glass can be craft.
+> All color glass can be crafted.
 
 # Redstone_Repeater
 
@@ -77,4 +77,4 @@ layout: wiki
 # Trapped_Chest
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/trapped_chest.png" | relative_url }}">  
-> All wood type can be craft.
+> All wood type can be crafted.

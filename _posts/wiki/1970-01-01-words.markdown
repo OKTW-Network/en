@@ -34,52 +34,52 @@ layout: wiki
 # 旅行者
 #### Traveler
 
-Travel in the Galaxy , alias player.
+Travels in the Galaxy, aka player.
 
 # 星船
 #### Star Ship
 
 Server Entry Point  
-Has a control panel to manage Galaxy.
+Having a control panel to manage Galaxy.
 
 # 星系
 #### Galaxy
 
-Correspond to  team concept , include many planets and members.
+Similar to a Team, including many planets and members.
 
 # 星球
 #### Planet
 
-correspond to Minecraft World , each planet is independent world.
+Corresponding to the Minecraft World, each planet is independent world.
 
 # 環境控制系統
 #### Environment Control System
 
-A satellite around planet , improve planet environment  
+A satellite around planet, improves planet environment  
 
-upgrade it to expand range and more effect.
+upgrade it to expand range and have more effect.
 
 # 星船控制台
 #### Star Ship Controller
 
-The controller on the star ship , use it to manage Galaxy
+The controller on the star ship, use it to manage Galaxy
 
 # 星球終端
 #### Planet Terminal
 
-The entry point to planet , it can connect to ECS(Environment Control System)  
+The entry point to planet, the 5x5x5 structure, it can connect to ECS(Environment Control System) and star ship
 On the Beacon in Planet spawn
 
 # 星塵
 #### Star dust
 
-Money .  
-When you get experience , you will  get star dust too.
+Money.  
+When you get experience, you will get star dust too.
   
 # 擁有者
 #### Owner
 
-The founder/Admin of Galaxy .
+The founder/Admin of Galaxy.
 
 # 管理員
 #### Admin
@@ -105,4 +105,3 @@ Nether
 #### Dark Planet
 
 The End
-

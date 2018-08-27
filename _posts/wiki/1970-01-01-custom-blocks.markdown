@@ -6,7 +6,7 @@ categories: wiki
 layout: wiki
 ---
 
-Warning! All Functional Block need use [Wrench]({{ "/wiki/tools.html#Wrench" | relative_url }}) to break。
+Notes that all of the Functional Block require a [Wrench]({{ "/wiki/tools.html#Wrench" | relative_url }}) to be removed.
 - [Hi-Tech-Crafting-Table](#Hi-Tech-Crafting-Table)
 - [Elevator](#Elevator)
 
@@ -18,13 +18,13 @@ Warning! All Functional Block need use [Wrench]({{ "/wiki/tools.html#Wrench" | r
 
 ### Crafting
 
-Use crafting table to craft(Shape)
+Use crafting table to craft(Shaped)
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.png" | relative_url }}">
 
-### Use
+### Usage
 
-In future , many item or block need it to crafting.
+Many items will require this to be crafted in the future.
 
 ### Features
 
@@ -42,14 +42,14 @@ Use crafting table to craft(Shapeless)
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/elevator/recipe.png" | relative_url }}">
 
-### Use
+### Usage
 
 Move faster between two elevator
 
 ### Features
 
-When elevator(at least 2) place in vertical , sneak can move down , jump can move up.
+When elevator(at least 2) place in vertical, sneak to move down, jump to move up.
 
 ### Other
 
-Elevator will not work when elveator to elveator distance more than 16.
+Elevator will not work when the distance of two elveators is more than 16.

@@ -16,27 +16,27 @@ layout: wiki
 
 # Story
 
-In the future , travel in Galaxy is very common  
-Player is from the other planet Traveler , and meet other Player one the way , decide to create a new Planet
+In the future , traveling in Galaxy is very common  
+Player is a Traveler from other planet, they met other Player on the way ,so they decided to develop a new Planet in the Galaxy together.
 
 # Concept
 
-Server like a Universe  
-Many Galaxy in Server  
-And Many Planet in Galaxy  
-Traveler on the go meet each other  
-decide to create Planet
+Server is like a Universe  
+There are many Galaxy in Server  
+And there are many Planet in Galaxy  
+Travelers met each other on the way
+And decided to develop Planet
 
 # Rules
 
 No Rules.
-But doesn't mean you can do Illegal thing.
+But doesn't mean that you can do Illegal things.
 
 # Precautions
 
 Our Server still in development  
-Many feature not finish yet , unstable  
-if you has any problem , you can contact us on the footer.
+Many feature not finish yet,and unstable  
+If you have any problem, you can contact us on the footer.
 
 ## Please enable Server ResourcePack
 
@@ -46,7 +46,7 @@ if you has any problem , you can contact us on the footer.
 
 # Start
 
-After join server , you will appear in Star Ship.
+After joining server , you will appear in Star Ship.
 First you need to [Join]({{ "/wiki/tutorial.html#如何加入星系" | relative_url }}) or [Create a Galaxy]({{ "/wiki/tutorial.html#如何創建星系" | relative_url }})  
-If you create Galaxy by youself , you need to Create a planet
+If you create Galaxy by youself, you will need to Create a planet
 
