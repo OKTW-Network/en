@@ -9,49 +9,24 @@ layout: wiki
 ---
 
 Notes that all of the Functional Block require a [Wrench]({{ "/wiki/tools.html#Wrench" | relative_url }}) to be removed.
-- [Hi-Tech-Crafting-Table](#Hi-Tech-Crafting-Table)
-- [Elevator](#Elevator)
 
----
-
-# Hi-Tech-Crafting-Table
-
-![]({{ "/assets/img/wiki/ht-ct/overview.png" | relative_url }})
-
-### Crafting
-
-Use crafting table to craft(Shaped)
-
-<img class="recipe-photo" src="{{ "/assets/img/wiki/ht-ct/recipe.png" | relative_url }}">
-
-### Usage
-
-Many items will require this to be crafted in the future.
-
-### Features
-
-WIP.
-
----
-
-# Elevator
-
-![]({{ "/assets/img/wiki/elevator/overview.png" | relative_url }})
-
-### Crafting
-
-Use crafting table to craft(Shapeless)
-
-<img class="recipe-photo" src="{{ "/assets/img/wiki/elevator/recipe.png" | relative_url }}">
-
-### Usage
-
-Move faster between two elevator
-
-### Features
-
-When elevator(at least 2) place in vertical, sneak to move down, jump to move up.
-
-### Other
-
-Elevator will not work when the distance of two elveators is more than 16.
+<div class="container">
+    <div class="wikiPages">
+        <div class="row">
+            {% assign wiki_pages = site.categories.custom_block | sort: 'order' %}
+            {% for wiki in wiki_pages %}
+            <div class="col-sm-3">
+                <a href="{{ wiki.url | relative_url }}" class="wiki-a">
+                    <div class="card text-center wiki-item">
+                        <img class="card-img-top" src="{{ "/assets/img/wiki/custom_block_icons/" | relative_url  }}{{ wiki.icon }}">
+                        <div class="card-body">
+                            <h5 class="card-title no-shadow">{{ wiki.title }}</h5>
+                            <p class="card-text no-shadow">{{ wiki.description }}</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

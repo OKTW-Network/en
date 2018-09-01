@@ -8,24 +8,24 @@ categories: wiki
 layout: wiki
 ---
 
-- [Wrench](#Wrench)
 
----
-
-# Wrench
-
-![]({{ "/assets/img/wiki/wrench/overview.png" | relative_url }})
-
-### Crafting
-
-Use crafting table to craft(Shape)
-
-<img class="recipe-photo" src="{{ "/assets/img/wiki/wrench/recipe.png" | relative_url }}">
-
-### Usage
-
-Removes the [Functional Block]({{ "/wiki/custom-blocks.html" | relative_url }})。
-
-### Features
-
-Sneak and right click to remove [Functional Block]({{ "/wiki/custom-blocks.html" | relative_url }}).
+<div class="container">
+    <div class="wikiPages">
+        <div class="row">
+            {% assign wiki_pages = site.categories.tools | sort: 'order' %}
+            {% for wiki in wiki_pages %}
+            <div class="col-sm-3">
+                <a href="{{ wiki.url | relative_url }}" class="wiki-a">
+                    <div class="card text-center wiki-item">
+                        <img class="card-img-top" src="{{ "/assets/img/wiki/tool_icons/" | relative_url  }}{{ wiki.icon }}">
+                        <div class="card-body">
+                            <h5 class="card-title no-shadow">{{ wiki.title }}</h5>
+                            <p class="card-text no-shadow">{{ wiki.description }}</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
