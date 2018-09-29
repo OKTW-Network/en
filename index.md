@@ -10,7 +10,7 @@
                 </div>
             </div>
             <div class="row">
-                <h5 class="subtitle">OKTW Netkwork brings you</h5>  
+                <h5 class="subtitle">OKTW Network brings you</h5>  
                 <h5 class="subtitle">The Original Vanilla Team Survival</h5>  
                 <h5 class="subtitle">Join NOW and travel in the Galaxy!</h5>  
             </div>
