@@ -8,11 +8,11 @@ categories: wiki
 layout: wiki
 ---
 
-- [Story](#Story)
-- [Concept](#Concept)
-- [Rules](#Rules)
-- [Precautions](#Precautions)
-- [Start](#Start)
+- [Story](#story)
+- [Concept](#concept)
+- [Rules](#rules)
+- [Precautions](#precautions)
+- [Start](#start)
 
 ---
 

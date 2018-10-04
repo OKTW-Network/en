@@ -8,9 +8,9 @@ categories: wiki
 layout: wiki
 ---
 
-- [Features](#Features)
-- [Get](#Get)
-- [Contribute](#Contribute)
+- [Features](#features)
+- [Get](#get)
+- [Contribute](#contribute)
   
 ---
 
