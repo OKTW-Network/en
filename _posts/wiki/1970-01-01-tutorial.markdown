@@ -25,17 +25,17 @@ On the [Star Ship]({{ "/wiki/words.html#StarShip" | relative_url }}) Click [Star
 Click **瀏覽所有星系**  
 Find [Galaxy]({{ "/wiki/words.html#Galaxy" | relative_url }}) that you want to join  
 Click **申請加入**(Send Request join)  
-Waiting [Galaxy Manager]({{ "/wiki/words.html#Admin" | relative_url }}) [Approve your request]({{ "/wiki/galaxy-manage-tutorial.html#How_to_review_request" | relative_url }})  
-Or you can ask [Galaxy Manager]({{ "/wiki/words.html#Admin" | relative_url }}) [add you manual]({{ "/wiki/galaxy-manage-tutorial.html#How_to_add_member" | relative_url }})
+Wait for [Admin]({{ "/wiki/words.html#Admin" | relative_url }}) or [Owner]({{ "/wiki/words.html#Owner" | relative_url }}) to [Approve your request]({{ "/wiki/galaxy-manage-tutorial.html#How_to_review_request" | relative_url }})  
+Or you can ask [Admin]({{ "/wiki/words.html#Admin" | relative_url }}) or [Owner]({{ "/wiki/words.html#Owner" | relative_url }}) to [add you manually]({{ "/wiki/galaxy-manage-tutorial.html#How_to_add_member" | relative_url }})
 
-> Maybe [you can create one]({{ "/wiki/galaxy-manage-tutorial.html#How_to_create_a_galaxy" | relative_url }})！
+> Maybe [you can create your own one]({{ "/wiki/galaxy-manage-tutorial.html#How_to_create_a_galaxy" | relative_url }})！
 
 <a name="How_to_enter_Planet">
 
 # How to enter Planet
 
 On the [Star Ship]({{ "/wiki/words.html#StarShip" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#StarShipController" | relative_url }}) on the table  
-Click **列出已加入星系**(Show joined Galaxy) 或 **列出所有星系**(Show all Galaxy)  
+Click **列出已加入星系**(Show joined Galaxy) or **列出所有星系**(Show all Galaxy)  
 Click **Galaxy** that you want to enter  
 Click **星球列表**(Planet List)  
 Click **Planet** that you want to enter
