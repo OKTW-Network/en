@@ -45,6 +45,8 @@ Travels in the Galaxy, aka player.
 # Star Ship
 #### 星船
 
+![]({{ "/assets/img/wiki/words/starship.png" | relative_url }})
+
 Server Entry Point  
 Having a control panel to manage Galaxy.
 
@@ -76,12 +78,16 @@ upgrade it to expand range and have more effect.
 # Star Ship Controller
 #### 星船控制台
 
+![]({{ "/assets/img/wiki/words/galaxy_controller.png" | relative_url }})
+
 The controller on the star ship, use it to manage Galaxy
 
 <a name="PlanetTerminal">
 
 # Planet Terminal
 #### 星球終端
+
+![]({{ "/assets/img/wiki/words/planet_terminal.png" | relative_url }})
 
 The entry point to planet, the 5x5x5 structure, it can connect to ECS(Environment Control System) and star ship
 On the Beacon in Planet spawn
@@ -120,6 +126,7 @@ The Member of Galaxy.
 # Normal Planet
 #### 普通星球
 
+![]({{ "/assets/img/wiki/words/normal_planet.png" | relative_url }})
 
 Normal World
 
@@ -127,6 +134,8 @@ Normal World
 
 # Hot Planet
 #### 炎熱星球
+
+![]({{ "/assets/img/wiki/words/hot_planet.png" | relative_url }})
 
 Nether
 
