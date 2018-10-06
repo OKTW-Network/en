@@ -29,8 +29,16 @@ layout: wiki
 
 On the [Star Ship]({{ "/wiki/words.html#StarShip" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#StarShipController" | relative_url }}) on the table  
 Click **創造星系**  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/create_galaxy.png" | relative_url }}">
+
 Type **Galaxy Name** in **Chat**
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/type_galaxy_name.png" | relative_url }}">
+
 Click **確定**  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/type_galaxy_name.png" | relative_url }}">
 
 <a name="How_to_open_manage_gui">
 
@@ -38,8 +46,17 @@ Click **確定**
 #### 如何開啟管理星系介面
 
 On the [Star Ship]({{ "/wiki/words.html#StarShip" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#StarShipController" | relative_url }}) on the table  
-Click **列出已加入的[星系]({{ "/wiki/words.html#Galaxy" | relative_url }})**  
+Click **列出已加入的[星系]({{ "/wiki/words.html#Galaxy" | relative_url }})** 
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/joined_galaxy.png" | relative_url }}">
+
 Click [Galaxy]({{ "/wiki/words.html#Galaxy" | relative_url }}) that you want to manage. **You must be [Owner]({{ "/wiki/words.html#Owner" | relative_url }}) or [Admin]({{ "/wiki/words.html#Admin" | relative_url }}) of the Galaxy.** 
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_galaxy.png" | relative_url }}">
+
+And then click **管理星系**
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/galaxy_manage.png" | relative_url }}">
 
 <a name="How_to_create_planet">
 
@@ -48,10 +65,22 @@ Click [Galaxy]({{ "/wiki/words.html#Galaxy" | relative_url }}) that you want to 
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
 Click **新增星球**  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/create_planet.png" | relative_url }}">
+
 Click **Planet Type**  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/planet_type.png" | relative_url }}">
+
 > You can only can create 2 planets for now, second one is hot planet(Costs 1000 star dust).
 Type **Planet Name** in **Chat** ( **Only accepts alphabet and number - _**)
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/type_planet_name.png" | relative_url }}">
+
 Click **確定** 
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/confirm_planet.png" | relative_url }}">
+
 > If you see red text, it means you use not allowed string or it has been used.
 
 <a name="How_to_upgrade_planet">
@@ -63,24 +92,40 @@ WIP
 
 <a name="How_to_add_member">
 
-# How to add member
+# How to kick member
 #### 如何移除成員
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
 Click **管理成員**  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/manage_member.png" | relative_url }}">
+
 Choose **Member** you want to kick  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_member.png" | relative_url }}">
+
 Click **移除成員**  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/remove_member.png" | relative_url }}">
+
 Click **是**  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/confirm_remove.png" | relative_url }}">
+
 
 <a name="How_to_kick_member">
 
-# How to kick member
+# How to add member
 #### 如何添加成員
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **添加成員**  
-Type **Player Username** in **聊天介面** 
-Click **確定**  
+Click **添加成員**   
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/add_member.png" | relative_url }}">
+
+Type **Player Username** in **Chat**
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/type_player.png" | relative_url }}">
 
 <a name="How_to_review_request">
 
@@ -89,8 +134,16 @@ Click **確定**
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
 Click **加入申請**  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/join_requests.png" | relative_url }}">
+
 Click **Player** you want to review  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_join_request_player.png" | relative_url }}">
+
 Click **是** 或 **否**
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/review_join_request.png" | relative_url }}">
 
 <a name="How_to_change_member_permission">
 
@@ -99,9 +152,20 @@ Click **是** 或 **否**
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
 Click **管理成員**  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/manage_member.png" | relative_url }}">
+
 Select the **Player** you want to change  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_member.png" | relative_url }}">
+
 Click **更改身分組**  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/change_group.png" | relative_url }}">
+
 Click the role you want to give ( *[ADMIN]({{ "wiki/words.html#Admin" | relative_url }})* / *[MEMBER]({{ "/wiki/words.html#Member" | relative_url }})* )
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_group.png" | relative_url }}">
 
 <a name="How_to_change_galaxy_name">
 
@@ -110,7 +174,12 @@ Click the role you want to give ( *[ADMIN]({{ "wiki/words.html#Admin" | relative
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
 Click **重新命名**  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/rename.png" | relative_url }}">
+
 Type **Other Galaxy Name** in **Chat**
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/rename_type.png" | relative_url }}">
 
 <a name="How_to_change_galaxy_info">
 
@@ -119,7 +188,12 @@ Type **Other Galaxy Name** in **Chat**
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
 Click **更改簡介**  
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/change_info.png" | relative_url }}">
+
 Type **Galaxy Info** in **Chat**
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/info_type.png" | relative_url }}">
 
 <a name="How_to_set_galaxy_notice">
 
@@ -128,6 +202,11 @@ Type **Galaxy Info** in **Chat**
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
 Click **更改通知**  
-Type **Galaxy notice** in **Chat**
-> you can use  `\n` to make a new line
 
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/change_notice.png" | relative_url }}">
+
+Type **Galaxy notice** in **Chat**
+
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/notice_type.png" | relative_url }}">
+
+> you can use  `\n` to make a new line
