@@ -130,6 +130,31 @@
             </div></div>
         </div>
     </div>
+    <div class="row mt-5">
+        <h1>Donate us</h1>
+        <hr>
+    </div>
+    <div class="row text-center">
+        <div class="col text-center">
+            <p>
+                Attention! You are dropping money to void.
+            </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm"></div>
+        <div class="col-sm text-center">
+                <a href="https://cashier.ecpay.com.tw/quick-collect/B2q7n" type="button" class="btn btn-lg btn-warning btn-block no-shadow" data-toggle="tooltip" data-placement="top" title="Think twice before donate">Donate</a> 
+        </div>
+        <div class="col-sm"></div>
+    </div>
+    <div class="row mt-1">
+        <div class="col-sm"></div>
+        <div class="col-sm text-center">
+                <a href="https://docs.google.com/spreadsheets/d/1i1kOsMaOc-B3R5jXiVGAAloo0DPjmLymFTe6IAAhclo/edit?usp=sharing" type="button" class="btn btn-lg btn-info btn-block no-shadow">Income statement</a> 
+        </div>
+        <div class="col-sm"></div>
+    </div>
 </div>
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
