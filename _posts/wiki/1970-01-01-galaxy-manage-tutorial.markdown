@@ -25,10 +25,9 @@ layout: wiki
 <a name="How_to_create_a_galaxy">
 
 # How to create a Galaxy
-#### 如何創造星系
 
 On the [Star Ship]({{ "/wiki/words.html#StarShip" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#StarShipController" | relative_url }}) on the table  
-Click **創造星系**  
+Click **Create galaxy**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/create_galaxy.png" | relative_url }}">
 
@@ -36,17 +35,16 @@ Type **Galaxy Name** in **Chat**
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/type_galaxy_name.png" | relative_url }}">
 
-Click **確定**  
+Click **Confirm**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/type_galaxy_name.png" | relative_url }}">
 
 <a name="How_to_open_manage_gui">
 
 # How to open Galaxy manage GUI
-#### 如何開啟管理星系介面
 
 On the [Star Ship]({{ "/wiki/words.html#StarShip" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#StarShipController" | relative_url }}) on the table  
-Click **列出已加入的[星系]({{ "/wiki/words.html#Galaxy" | relative_url }})** 
+Click **List joined [galaxy]({{ "/wiki/words.html#Galaxy" | relative_url }})** 
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/joined_galaxy.png" | relative_url }}">
 
@@ -54,17 +52,16 @@ Click [Galaxy]({{ "/wiki/words.html#Galaxy" | relative_url }}) that you want to 
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_galaxy.png" | relative_url }}">
 
-And then click **管理星系**
+And then click **Manage Galaxy**
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/galaxy_manage.png" | relative_url }}">
 
 <a name="How_to_create_planet">
 
 # How to create Planet
-#### 如何新增星球
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **新增星球**  
+Click **Create planet**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/create_planet.png" | relative_url }}">
 
@@ -77,7 +74,7 @@ Type **Planet Name** in **Chat** ( **Only accepts alphabet and number - _**)
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/type_planet_name.png" | relative_url }}">
 
-Click **確定** 
+Click **Confirm**
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/confirm_planet.png" | relative_url }}">
 
@@ -86,17 +83,15 @@ Click **確定**
 <a name="How_to_upgrade_planet">
 
 # How to upgrade Planet
-#### 如何升級星球
 
 WIP
 
 <a name="How_to_add_member">
 
 # How to kick member
-#### 如何移除成員
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **管理成員**  
+Click **Manage member**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/manage_member.png" | relative_url }}">
 
@@ -104,11 +99,11 @@ Choose **Member** you want to kick
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_member.png" | relative_url }}">
 
-Click **移除成員**  
+Click **Remove member**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/remove_member.png" | relative_url }}">
 
-Click **是**  
+Click **Yes**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/confirm_remove.png" | relative_url }}">
 
@@ -116,10 +111,9 @@ Click **是**
 <a name="How_to_kick_member">
 
 # How to add member
-#### 如何添加成員
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **添加成員**   
+Click **Add member**
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/add_member.png" | relative_url }}">
 
@@ -130,10 +124,9 @@ Type **Player Username** in **Chat**
 <a name="How_to_review_request">
 
 # How to review request
-#### 如何審核加入申請
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **加入申請**  
+Click **Join application**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/join_requests.png" | relative_url }}">
 
@@ -141,17 +134,16 @@ Click **Player** you want to review
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_join_request_player.png" | relative_url }}">
 
-Click **是** 或 **否**
+Click **Yes** 或 **No**
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/review_join_request.png" | relative_url }}">
 
 <a name="How_to_change_member_permission">
 
 # How to change member permission
-#### 如何修改成員身分組
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **管理成員**  
+Click **Manage member**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/manage_member.png" | relative_url }}">
 
@@ -159,7 +151,7 @@ Select the **Player** you want to change
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_member.png" | relative_url }}">
 
-Click **更改身分組**  
+Click **Change role**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/change_group.png" | relative_url }}">
 
@@ -170,10 +162,9 @@ Click the role you want to give ( *[ADMIN]({{ "wiki/words.html#Admin" | relative
 <a name="How_to_change_galaxy_name">
 
 # How to change Galaxy name
-#### 如何修改星系名稱
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **重新命名**  
+Click **Rename**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/rename.png" | relative_url }}">
 
@@ -184,10 +175,9 @@ Type **Other Galaxy Name** in **Chat**
 <a name="How_to_change_galaxy_info">
 
 # How to change Galaxy info
-#### 如何修改星系簡介
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **更改簡介**  
+Click **Change info**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/change_info.png" | relative_url }}">
 
@@ -198,10 +188,9 @@ Type **Galaxy Info** in **Chat**
 <a name="How_to_set_galaxy_notice">
 
 # How to change Galaxy notice
-#### 如何設定星系通知
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **更改通知**  
+Click **Change Notification**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/change_notice.png" | relative_url }}">
 
