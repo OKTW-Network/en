@@ -17,4 +17,6 @@ WORKDIR /app
 COPY . /app
 
 RUN bundle install
-RUN bundle exec jekyll build --destination /public
+RUN mkdir -p /public
+RUN echo "<script>window.location= '/en'</script>" >> /public/index.html
+RUN bundle exec jekyll build --destination /public/en
