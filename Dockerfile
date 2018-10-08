@@ -17,4 +17,5 @@ WORKDIR /app
 COPY . /app
 
 RUN bundle install
-RUN bundle exec jekyll build --destination /public
+RUN mkdir /app/public/en
+RUN bundle exec jekyll build --destination /public/en
