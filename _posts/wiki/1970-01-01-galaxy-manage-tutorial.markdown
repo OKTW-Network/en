@@ -27,7 +27,7 @@ layout: wiki
 # How to create a Galaxy
 
 On the [Star Ship]({{ "/wiki/words.html#StarShip" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#StarShipController" | relative_url }}) on the table  
-Click **Create galaxy**  
+Click **Find unknown galaxy**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/create_galaxy.png" | relative_url }}">
 
@@ -44,11 +44,11 @@ Click **Confirm**
 # How to open Galaxy manage GUI
 
 On the [Star Ship]({{ "/wiki/words.html#StarShip" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#StarShipController" | relative_url }}) on the table  
-Click **List joined [galaxy]({{ "/wiki/words.html#Galaxy" | relative_url }})** 
+Switch to **Joined galaxy** using the button on the top-right corner
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/joined_galaxy.png" | relative_url }}">
 
-Click [Galaxy]({{ "/wiki/words.html#Galaxy" | relative_url }}) that you want to manage. **You must be [Owner]({{ "/wiki/words.html#Owner" | relative_url }}) or [Admin]({{ "/wiki/words.html#Admin" | relative_url }}) of the Galaxy.** 
+Click [Galaxy]({{ "/wiki/words.html#Galaxy" | relative_url }}) that you want to manage. **You must be [Owner]({{ "/wiki/words.html#Owner" | relative_url }}) or [Admin]({{ "/wiki/words.html#Admin" | relative_url }}) of the Galaxy.**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/select_galaxy.png" | relative_url }}">
 
@@ -61,7 +61,7 @@ And then click **Manage Galaxy**
 # How to create Planet
 
 Open **[Manage GUI](#How_to_open_manage_gui)**  
-Click **Create planet**  
+Click **Find unknown planet**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/create_planet.png" | relative_url }}">
 
