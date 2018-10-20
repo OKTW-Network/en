@@ -26,7 +26,7 @@ layout: wiki
 
 # How to create a Galaxy
 
-On the [Star Ship]({{ "/wiki/words.html#StarShip" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#StarShipController" | relative_url }}) on the table  
+On the [Space Ship]({{ "/wiki/words.html#SpaceShip" | relative_url }}) Click [Space Ship Controller]({{ "/wiki/words.html#SpaceShipController" | relative_url }}) on the table  
 Click **Find unknown galaxy**  
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/create_galaxy.png" | relative_url }}">
@@ -43,8 +43,9 @@ Click **Confirm**
 
 # How to open Galaxy manage GUI
 
-On the [Star Ship]({{ "/wiki/words.html#StarShip" | relative_url }}) Click [Star Ship Controller]({{ "/wiki/words.html#StarShipController" | relative_url }}) on the table  
-Switch to **Joined galaxy** using the button on the top-right corner
+On the [Space Ship]({{ "/wiki/words.html#SpaceShip" | relative_url }}) Click [Space Ship Controller]({{ "/wiki/words.html#SpaceShipController" | relative_url }}) on the table  
+Switch to **Joined galaxy** using the button on the top-right
+ corner
 
 <img class="article-photo" src="{{ "/assets/img/wiki/toturial/joined_galaxy.png" | relative_url }}">
 
