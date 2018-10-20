@@ -37,7 +37,7 @@ Type **Galaxy Name** in **Chat**
 
 Click **Confirm**  
 
-<img class="article-photo" src="{{ "/assets/img/wiki/toturial/type_galaxy_name.png" | relative_url }}">
+<img class="article-photo" src="{{ "/assets/img/wiki/toturial/confirm_galaxy.png" | relative_url }}">
 
 <a name="How_to_open_manage_gui">
 
