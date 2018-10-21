@@ -48,7 +48,7 @@ If you have any problem, you can contact us on the footer.
 
 # Start
 
-After joining server, you will appear in Star Ship.
+After joining server, you will appear in Space Ship.
 First you need to [Join]({{ "/wiki/tutorial.html#How_to_join_Galaxy" | relative_url }}) or [Create a Galaxy]({{ "/wiki/tutorial.html#How_to_create_a_galaxy" | relative_url }})  
 If you create Galaxy by youself, you will need to Create a planet
 
