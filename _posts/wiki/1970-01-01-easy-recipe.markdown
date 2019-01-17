@@ -34,7 +34,6 @@ layout: wiki
 # Stick
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_stick.png" | relative_url }}">  
-> Shapeless
 > All wood type can be crafted.
 
 <a name="Hopper">
@@ -57,7 +56,6 @@ layout: wiki
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_slab.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/wooden_slab_to_block.png" | relative_url }}">  
-> Shapeless
 > All wood type can be crafted.
 
 <a name="Carrot_On_A_Stick">
