@@ -38,6 +38,7 @@ layout: wiki
 # Stick
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_stick.png" | relative_url }}">  
+> Shapeless
 > All wood type can be crafted.
 
 <a name="Hopper">
@@ -81,7 +82,8 @@ layout: wiki
 
 # Book_and_quill
 
-<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/writable_book_made_with_uncrafted_book.png" | relative_url }}">Redstone_Lamp
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/writable_book_made_with_uncrafted_book.png" | relative_url }}">
+> Shapeless
 
 <a name="Redstone_Lamp">
 
@@ -127,6 +129,7 @@ layout: wiki
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/glass_pane_to_block.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stained_glass_pane_to_block.png" | relative_url }}">  
+> Shapeless
 > All color glass can be crafted.
 
 <a name="Redstone_Repeater">
