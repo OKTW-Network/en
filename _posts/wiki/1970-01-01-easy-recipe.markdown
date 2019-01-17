@@ -56,7 +56,16 @@ layout: wiki
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/log_slab.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/wooden_slab_to_block.png" | relative_url }}">  
-> All wood type can be crafted.
+> All wood type can be crafted.  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/cobblestone_slab_to_block.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stone_slab_to_stone.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stone_brick_slab_to_block.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/brick_slab_to_block.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/sandstone_slab_to_block.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/red_sandstone_slab_to_block.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/nether_slab_to_block.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/quartz_slab_to_block.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/purpur_slab_to_block.png" | relative_url }}">  
 
 <a name="Carrot_On_A_Stick">
 
