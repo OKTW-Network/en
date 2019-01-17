@@ -14,6 +14,7 @@ layout: wiki
 - [Ladder](#Ladder)
 - [Slab](#Slab)
 - [Carrot On A Stick](#Carrot_On_A_Stick)
+- [Book and quill](#Book_and_quill)
 - [Redstone Lamp](#Redstone_Lamp)
 - [Dispenser](#Dispenser)
 - [Minecart](#Minecart)
@@ -75,6 +76,12 @@ layout: wiki
 # Carrot_On_A_Stick
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/carrot_on_a_stick.png" | relative_url }}">
+
+<a name="Book_and_quill">
+
+# Book_and_quill
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/writable_book_made_with_uncrafted_book.png" | relative_url }}">Redstone_Lamp
 
 <a name="Redstone_Lamp">
 
