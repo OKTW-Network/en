@@ -14,6 +14,7 @@ layout: wiki
 - [Ladder](#Ladder)
 - [Slab](#Slab)
 - [Carrot On A Stick](#Carrot_On_A_Stick)
+- [Redstone Lamp](#Redstone_Lamp)
 - [Dispenser](#Dispenser)
 - [Minecart](#Minecart)
 - [Glass](#Glass)
@@ -74,6 +75,12 @@ layout: wiki
 # Carrot_On_A_Stick
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/carrot_on_a_stick.png" | relative_url }}">
+
+<a name="Redstone_Lamp">
+
+# Redstone_Lamp
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/redstone_lamp_dust.png" | relative_url }}">Redstone_Lamp
 
 <a name="Dispenser">
 
