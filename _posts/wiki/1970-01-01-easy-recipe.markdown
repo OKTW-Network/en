@@ -14,6 +14,7 @@ layout: wiki
 - [Ladder](#Ladder)
 - [Slab](#Slab)
 - [Carrot On A Stick](#Carrot_On_A_Stick)
+- [Dispenser](#Dispenser)
 - [Minecart](#Minecart)
 - [Glass](#Glass)
 - [Glass Pane](#Glass_Pane)
@@ -74,6 +75,13 @@ layout: wiki
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/carrot_on_a_stick.png" | relative_url }}">
 
+<a name="Dispenser">
+
+# Dispenser
+
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/dispenser_unfinished_bow.png" | relative_url }}">  
+
 <a name="Minecart">
 
 # Minecart
@@ -101,7 +109,8 @@ layout: wiki
 
 <a name="Glass_Pane_to_Block">
 
-#Glass_Pane_to_Block
+# Glass_Pane_to_Block
+
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/glass_pane_to_block.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stained_glass_pane_to_block.png" | relative_url }}">  
 > All color glass can be crafted.
