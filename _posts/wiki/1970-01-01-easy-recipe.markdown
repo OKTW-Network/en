@@ -17,6 +17,7 @@ layout: wiki
 - [Minecart](#Minecart)
 - [Glass](#Glass)
 - [Glass Pane](#Glass_Pane)
+- [Glass Pane to Block](#Glass_Pane_to_Block)
 - [Redstone Repeater](#Redstone_Repeater)
 - [Trapped Chest](#Trapped_Chest)
 
@@ -96,6 +97,13 @@ layout: wiki
 
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/color_glass_pane.png" | relative_url }}">  
 <img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/clear_color_glass_pane.png" | relative_url }}">  
+> All color glass can be crafted.
+
+<a name="Glass_Pane_to_Block">
+
+#Glass_Pane_to_Block
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/glass_pane_to_block.png" | relative_url }}">  
+<img class="recipe-photo" src="{{ "/assets/img/wiki/easy_recipe/stained_glass_pane_to_block.png" | relative_url }}">  
 > All color glass can be crafted.
 
 <a name="Redstone_Repeater">
