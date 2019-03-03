@@ -1,23 +1,24 @@
 ---
-order : 21
-title:  "Tools"
-icon: "fas fa-wrench"
+order : 20
+title:  "Functional block"
+icon: "fas fa-cube"
 description: ""
-date:  1970-01-01 00:00:00 +0000
+date:  2018-07-23 00:00:00 +0000
 categories: wiki
 layout: wiki
 ---
 
+Notes that all of the Functional Block require a [Wrench]({{ "/tools/wrench.html" | relative_url }}) to be removed.
 
 <div class="container">
     <div class="wikiPages">
         <div class="row">
-            {% assign wiki_pages = site.categories.tools | sort: 'order' %}
+            {% assign wiki_pages = site.categories.custom_block | sort: 'order' %}
             {% for wiki in wiki_pages %}
             <div class="col-sm-3">
                 <a href="{{ wiki.url | relative_url }}" class="wiki-a">
                     <div class="card text-center wiki-item">
-                        <img class="card-img-top" src="{{ "/assets/img/wiki/tool_icons/" | relative_url  }}{{ wiki.icon }}">
+                        <img class="card-img-top" src="{{ "/assets/img/wiki/custom_block_icons/" | relative_url  }}{{ wiki.icon }}">
                         <div class="card-body">
                             <h5 class="card-title no-shadow">{{ wiki.title }}</h5>
                             <p class="card-text no-shadow">{{ wiki.description }}</p>
